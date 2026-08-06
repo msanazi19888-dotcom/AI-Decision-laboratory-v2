@@ -1,0 +1,119 @@
+product_id,product_name,category,unit_cost,selling_price,primary_market,avg_profit_margin
+P019,Nike Men's Fingertrap Max Training Shoe,Soccer,124.9899979,168.74,Europe,0.147
+P024,Elevation Training Mask 2.0,Soccer,79.98999786,107.99,Europe,0.147
+P035,adidas Brazuca 2014 Official Match Ball,Baseball & Softball,159.9900055,215.99,Europe,0.138
+P037,adidas Kids' F5 Messi FG Soccer Cleat,Baseball & Softball,34.99000168,47.24,LATAM,0.138
+P044,adidas Men's F10 Messi TRX FG Soccer Cleat,Baseball & Softball,59.99000168,80.99,LATAM,0.138
+P058,Diamondback Boys' Insight 24 Performance Hybr,Basketball,299.9899902,404.99,Europe,0.108
+P060,SOLE E25 Elliptical,Basketball,999.9899902,1349.99,Europe,0.108
+P061,Diamondback Girls' Clarity 24 Hybrid Bike 201,Basketball,299.9899902,404.99,Europe,0.108
+P078,Nike Kids' Grade School KD VI Basketball Shoe,Lacrosse,99.98999786,134.99,Europe,0.131
+P093,Under Armour Men's Tech II T-Shirt,Lacrosse,24.98999977,33.74,LATAM,0.131
+P116,Nike Men's Comfort 2 Slide,Tennis & Racquet,44.99000168,60.74,LATAM,0.134
+P127,Stiga Master Series ST3100 Competition Indoor,Hockey,329.9899902,445.49,Europe,0.128
+P134,Nike Women's Legend V-Neck T-Shirt,Hockey,25.0,33.75,LATAM,0.128
+P135,Nike Dri-FIT Crew Sock 6 Pack,Hockey,22.0,29.7,LATAM,0.128
+P172,Nike Women's Tempo Shorts,Cardio Equipment,30.0,40.5,LATAM,0.119
+P191,Nike Men's Free 5.0+ Running Shoe,Cardio Equipment,99.98999786,134.99,LATAM,0.119
+P203,GoPro HERO3+ Black Edition Camera,Strength Training,399.9899902,539.99,Europe,0.059
+P208,SOLE E35 Elliptical,Strength Training,1999.98999,2699.99,Europe,0.059
+P216,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,Strength Training,189.0,255.15,Europe,0.059
+P226,Bowflex SelectTech 1090 Dumbbells,Fitness Accessories,599.9899902,809.99,Europe,0.151
+P235,Under Armour Hustle Storm Medium Duffle Bag,Fitness Accessories,34.99000168,47.24,LATAM,0.151
+P249,Under Armour Women's Micro G Skulpt Running S,Boxing & MMA,54.97000122,74.21,LATAM,0.113
+P251,Brooks Women's Ghost 6 Running Shoe,Boxing & MMA,89.98999786,121.49,Europe,0.113
+P258,Nike Women's Free 5.0 TR FIT PRT 4 Training S,Boxing & MMA,94.98999786,128.24,Europe,0.113
+P273,Under Armour Kids' Mercenary Slide,Electronics,27.98999977,37.79,LATAM,0.125
+P276,Under Armour Women's Ignite Slide,Electronics,31.98999977,43.19,Pacific Asia,0.125
+P278,Under Armour Men's Compression EV SL Slide,Electronics,44.99000168,60.74,LATAM,0.125
+P282,Under Armour Women's Ignite PIP VI Slide,Electronics,31.98999977,43.19,LATAM,0.125
+P295,Fitbit The One Wireless Activity & Sleep Trac,Kids' Golf Clubs,99.94999695,134.93,Europe,0.106
+P303,Garmin Forerunner 910XT GPS Watch,Kids' Golf Clubs,399.9899902,539.99,Europe,0.106
+P305,Mio ALPHA Heart Rate Monitor/Sport Watch,Kids' Golf Clubs,199.0,268.65,Europe,0.106
+P306,Polar FT4 Heart Rate Monitor,Kids' Golf Clubs,89.98999786,121.49,Europe,0.106
+P311,Polar Loop Activity Tracker,Kids' Golf Clubs,109.9499969,148.43,Europe,0.106
+P359,Nike Men's Free TR 5.0 TB Training Shoe,As Seen on  TV!,99.98999786,134.99,Europe,0.065
+P364,Total Gym 1400,Cleats,299.9899902,404.99,Europe,0.125
+P365,Perfect Fitness Perfect Rip Deck,Cleats,59.99000168,80.99,LATAM,0.125
+P403,Nike Men's CJ Elite 2 TD Football Cleat,Men's Footwear,129.9900055,175.49,LATAM,0.12
+P502,Nike Men's Dri-FIT Victory Golf Polo,Women's Apparel,50.0,67.5,LATAM,0.122
+P564,Nike Men's Deutschland Weltmeister Winners Bl,Girls' Apparel,30.0,40.5,Pacific Asia,0.119
+P565,adidas Youth Germany Black/Red Away Match Soc,Girls' Apparel,70.0,94.5,LATAM,0.119
+P567,adidas Men's Germany Black Crest Away Tee,Girls' Apparel,25.0,33.75,LATAM,0.119
+P572,TYR Boys' Team Digi Jammer,Girls' Apparel,39.99000168,53.99,LATAM,0.119
+P607,Garmin Approach S3 Golf GPS Watch,Trade-In,249.9900055,337.49,Europe,0.127
+P625,Nike Men's Kobe IX Elite Low Basketball Shoe,Shop By Sport,199.9900055,269.99,LATAM,0.112
+P627,Under Armour Girls' Toddler Spine Surge Runni,Shop By Sport,39.99000168,53.99,LATAM,0.112
+P642,Columbia Men's PFG Anchor Tough T-Shirt,Shop By Sport,30.0,40.5,LATAM,0.112
+P646,Merrell Women's Grassbow Sport Hiking Shoe,Men's Golf Clubs,99.98999786,134.99,Europe,0.146
+P647,Merrell Women's Siren Mid Waterproof Hiking B,Men's Golf Clubs,134.9900055,182.24,Europe,0.146
+P652,Merrell Women's Grassbow Sport Waterproof Hik,Men's Golf Clubs,129.9900055,175.49,Europe,0.146
+P666,Merrell Men's All Out Flash Trail Running Sho,Men's Golf Clubs,109.9899979,148.49,Europe,0.146
+P671,Cleveland Golf Collegiate My Custom Wedge 588,Women's Golf Clubs,209.9900055,283.49,Europe,0.146
+P677,TaylorMade White Smoke IN-12 Putter,Women's Golf Clubs,99.98999786,134.99,Europe,0.146
+P691,MDGolf Pittsburgh Penguins Putter,Women's Golf Clubs,79.98999786,107.99,Europe,0.146
+P703,Top Flite Women's 2014 XL Hybrid,Golf Apparel,19.98999977,26.99,LATAM,0.1
+P705,Cleveland Golf Women's 588 RTX CB Satin Chrom,Golf Apparel,119.9899979,161.99,Europe,0.1
+P715,TaylorMade Women's RBZ SL Rescue,Golf Apparel,129.9900055,175.49,Europe,0.1
+P724,LIJA Women's Mid-Length Panel Golf Shorts,Golf Shoes,100.0,135.0,Europe,0.121
+P725,LIJA Women's Button Golf Dress,Golf Shoes,108.0,145.8,Europe,0.121
+P728,LIJA Women's Eyelet Sleeveless Golf Polo,Golf Shoes,65.0,87.75,LATAM,0.121
+P730,LIJA Women's Argyle Golf Polo,Golf Shoes,80.0,108.0,Europe,0.121
+P743,Ogio Race Golf Shoes,Golf Bags & Carts,169.9900055,229.49,Europe,0.191
+P768,Titleist Club Glove Travel Cover,Golf Gloves,299.9899902,404.99,Europe,0.128
+P771,Clicgear Rovic Cooler Bag,Golf Gloves,39.99000168,53.99,Pacific Asia,0.128
+P773,Titleist Small Wheeled Travel Cover,Golf Gloves,249.9900055,337.49,Europe,0.128
+P775,Clicgear 8.0 Shoe Brush,Golf Gloves,9.989999771,13.49,LATAM,0.128
+P777,Bag Boy M330 Push Cart,Golf Gloves,79.98999786,107.99,Europe,0.128
+P778,Bag Boy Beverage Holder,Golf Gloves,24.98999977,33.74,LATAM,0.128
+P786,TaylorMade 2014 Purelite Stand Bag,Golf Gloves,179.9900055,242.99,Europe,0.128
+P792,Hirzl Men's Hybrid Golf Glove,Golf Balls,14.98999977,20.24,LATAM,0.118
+P793,Hirzl Women's Hybrid Golf Glove,Golf Balls,14.98999977,20.24,LATAM,0.118
+P797,Hirzl Women's Soffft Flex Golf Glove,Golf Balls,17.98999977,24.29,LATAM,0.118
+P804,Glove It Women's Imperial Golf Glove,Golf Balls,19.98999977,26.99,LATAM,0.118
+P810,Glove It Women's Mod Oval Golf Glove,Golf Balls,19.98999977,26.99,LATAM,0.118
+P818,Titleist Pro V1x Golf Balls,Electronics,47.99000168,64.79,LATAM,0.125
+P821,Titleist Pro V1 High Numbers Personalized Gol,Electronics,51.99000168,70.19,LATAM,0.125
+P822,Titleist Pro V1x High Numbers Golf Balls,Electronics,47.99000168,64.79,LATAM,0.125
+P823,Titleist Pro V1x High Numbers Personalized Go,Electronics,51.99000168,70.19,LATAM,0.125
+P825,Bridgestone e6 Straight Distance NFL Tennesse,Electronics,31.98999977,43.19,Pacific Asia,0.125
+P828,Bridgestone e6 Straight Distance NFL San Dieg,Electronics,31.98999977,43.19,Pacific Asia,0.125
+P835,Bridgestone e6 Straight Distance NFL Carolina,Electronics,31.98999977,43.19,LATAM,0.125
+P845,Garmin Approach S4 Golf GPS Watch,Kids' Golf Clubs,299.9899902,404.99,Europe,0.106
+P858,GolfBuddy VT3 GPS Watch,Kids' Golf Clubs,199.9900055,269.99,Europe,0.106
+P860,Bushnell Pro X7 Jolt Slope Rangefinder,Kids' Golf Clubs,599.9899902,809.99,Europe,0.106
+P885,Team Golf St. Louis Cardinals Putter Grip,Accessories,24.98999977,33.74,Pacific Asia,0.132
+P886,Team Golf San Francisco Giants Putter Grip,Accessories,24.98999977,33.74,LATAM,0.132
+P893,Team Golf Pittsburgh Steelers Putter Grip,Accessories,24.98999977,33.74,LATAM,0.132
+P897,Team Golf New England Patriots Putter Grip,Accessories,24.98999977,33.74,Pacific Asia,0.132
+P905,Team Golf Texas Longhorns Putter Grip,Accessories,24.98999977,33.74,LATAM,0.132
+P906,Team Golf Tennessee Volunteers Putter Grip,Accessories,24.98999977,33.74,LATAM,0.132
+P917,Glove It Women's Mod Oval 3-Zip Carry All Gol,Trade-In,21.98999977,29.69,LATAM,0.127
+P924,Glove It Urban Brick Golf Towel,Trade-In,15.98999977,21.59,LATAM,0.127
+P926,Glove It Imperial Golf Towel,Trade-In,15.98999977,21.59,LATAM,0.127
+P957,Diamondback Women's Serene Classic Comfort Bi,Camping & Hiking,299.980011,404.97,LATAM,0.116
+P977,ENO Atlas Hammock Straps,Hunting & Shooting,29.98999977,40.49,LATAM,0.093
+P981,The North Face Women's Recon Backpack,Hunting & Shooting,99.0,133.65,Europe,0.093
+P982,insta-bed Neverflat Air Mattress,Hunting & Shooting,149.9900055,202.49,Europe,0.093
+P1004,Field & Stream Sportsman 16 Gun Fire Safe,Fishing,399.980011,539.97,LATAM,0.121
+P1014,O'Brien Men's Neoprene Life Vest,Indoor/Outdoor Games,49.97999954,67.47,LATAM,0.124
+P1059,Pelican Maverick 100X Kayak,Water Sports,349.9899902,472.49,Europe,0.116
+P1073,Pelican Sunstream 100 Kayak,Water Sports,199.9900055,269.99,LATAM,0.116
+P1346,Sports Books ,Books ,31.07999992,41.96,Europe,0.079
+P1347,Baby sweater,Baby ,59.08000183,79.76,Pacific Asia,0.139
+P1348,CDs of rock,CDs ,11.28999996,15.24,Pacific Asia,0.136
+P1349,Web Camera,Cameras ,452.0400085,610.25,Europe,0.126
+P1350,Children's heaters,Children's Clothing,357.1000061,482.09,Europe,0.13
+P1351,Dell Laptop,Computers,1500.0,2025.0,Europe,0.117
+P1352,Industrial consumer electronics,Consumer Electronics,252.8800049,341.39,Europe,0.134
+P1353,Porcelain crafts,Crafts,461.480011,623.0,Pacific Asia,0.125
+P1354,DVDs ,DVDs,164.3800049,221.91,Pacific Asia,0.096
+P1355,Lawn mower,Garden,532.5800171,718.98,Pacific Asia,0.143
+P1356,First aid kit,Health and Beauty,293.0400085,395.6,Pacific Asia,0.096
+P1357,Men's gala suit,Men's Clothing,210.8500061,284.65,Pacific Asia,0.053
+P1358,Rock music,Music,260.6499939,351.88,Pacific Asia,0.143
+P1359,Adult dog supplies,Pet Supplies,84.40000153,113.94,Pacific Asia,0.094
+P1360,Smart watch ,Sporting Goods,327.75,442.46,Pacific Asia,0.121
+P1361,Toys ,Toys,11.53999996,15.58,Pacific Asia,0.162
+P1362,Fighting video games,Video Games,39.75,53.66,Pacific Asia,0.092
+P1363,Summer dresses,Women's Clothing,215.8200073,291.36,Pacific Asia,0.151

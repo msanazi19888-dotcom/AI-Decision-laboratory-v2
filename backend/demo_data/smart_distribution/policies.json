@@ -1,0 +1,17 @@
+{
+  "company_name": "Smart Distribution",
+  "industry": "Wholesale Distribution",
+  "business_objective": "Avoid Stock-out",
+  "risk_appetite": "Low",
+  "preferred_supplier": "S004",
+  "maximum_inventory": 2000,
+  "monthly_purchase_limit": 334406.68,
+  "currency": "USD",
+  "decision_policy": {
+    "finance_weight": 30,
+    "inventory_weight": 35,
+    "logistics_weight": 20,
+    "risk_weight": 15
+  },
+  "data_source_note": "Products, sales, and supplier reliability are derived from the real DataCo Smart Supply Chain dataset (Constante et al., 2019). Inventory levels and financial figures are calibrated assumptions based on real order volume, since actual company inventory/budget data is proprietary and not publicly available."
+}

@@ -1,0 +1,21 @@
+supplier_id,supplier_name,market,lead_time_days,reliability,order_count
+S001,First Class - Africa,Africa,2.0,3.0,1727
+S002,First Class - Europe,Europe,2.0,4.2,7892
+S003,First Class - LATAM,LATAM,2.0,5.3,7886
+S004,First Class - Pacific Asia,Pacific Asia,2.0,4.9,6301
+S005,First Class - USCA,USCA,2.0,4.8,4008
+S006,Same Day - Africa,Africa,0.5,56.0,668
+S007,Same Day - Europe,Europe,0.5,53.6,2759
+S008,Same Day - LATAM,LATAM,0.5,52.0,2650
+S009,Same Day - Pacific Asia,Pacific Asia,0.4,56.5,2226
+S010,Same Day - USCA,USCA,0.5,55.6,1434
+S011,Second Class - Africa,Africa,4.0,22.6,2164
+S012,Second Class - Europe,Europe,4.0,23.0,9861
+S013,Second Class - LATAM,LATAM,4.0,24.4,9939
+S014,Second Class - Pacific Asia,Pacific Asia,4.0,22.8,8147
+S015,Second Class - USCA,USCA,4.0,23.3,5105
+S016,Standard Class - Africa,Africa,4.0,61.8,7055
+S017,Standard Class - Europe,Europe,4.0,62.0,29740
+S018,Standard Class - LATAM,LATAM,4.0,62.1,31119
+S019,Standard Class - Pacific Asia,Pacific Asia,4.0,61.5,24586
+S020,Standard Class - USCA,USCA,4.0,62.1,15252

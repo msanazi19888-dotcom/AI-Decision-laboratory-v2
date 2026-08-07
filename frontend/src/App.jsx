@@ -317,6 +317,19 @@ function TrendDiagnosticPanel({ diagnostic }) {
   );
 }
 
+// Points directly at the deployed backend so the app works whether
+// served locally (via Vite's dev proxy, which still handles relative
+// "/api" during local development) or from a static host like Vercel,
+// which has no server of its own to proxy through. In local dev this
+// constant is unused because relative paths already work via the Vite
+// proxy; in production it's what makes the deployed frontend reach the
+// deployed backend directly, without relying on host-specific rewrite
+// configuration.
+const API_BASE =
+  window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
+    ? ""
+    : "https://ai-decision-laboratory-v2.onrender.com";
+
 function AboutPage() {
   return (
     <div className="about-page">
@@ -498,7 +511,7 @@ export default function App() {
   const [productsError, setProductsError] = useState(null);
 
   useEffect(() => {
-    fetch("/api/v2/demo-company/products")
+    fetch(`${API_BASE}/api/v2/demo-company/products`)
       .then((r) => {
         if (!r.ok) throw new Error(`Status ${r.status}`);
         return r.json();
@@ -506,7 +519,7 @@ export default function App() {
       .then((data) => setProducts(data))
       .catch((err) => setProductsError(err.message));
 
-    fetch("/api/v2/demo-company/objectives")
+    fetch(`${API_BASE}/api/v2/demo-company/objectives`)
       .then((r) => r.json())
       .then(setObjectives)
       .catch(() => setObjectives([]));
@@ -531,7 +544,7 @@ export default function App() {
     if (!selectedId) return;
     const timeout = setTimeout(() => {
       fetch(
-        `/api/v2/demo-company/pricing?product_id=${encodeURIComponent(
+        `${API_BASE}/api/v2/demo-company/pricing?product_id=${encodeURIComponent(
           selectedId
         )}&price_change_pct=${priceChangePct}`
       )
@@ -554,15 +567,15 @@ export default function App() {
     try {
       const [decisionRes, forecastRes, trendRes] = await Promise.all([
         fetch(
-          `/api/v2/demo-company/?product_id=${encodeURIComponent(
+          `${API_BASE}/api/v2/demo-company/?product_id=${encodeURIComponent(
             productId
           )}&business_objective=${encodeURIComponent(objectiveToUse)}`
         ),
         fetch(
-          `/api/v2/demo-company/forecast?product_id=${encodeURIComponent(productId)}&days=14`
+          `${API_BASE}/api/v2/demo-company/forecast?product_id=${encodeURIComponent(productId)}&days=14`
         ),
         fetch(
-          `/api/v2/demo-company/trend-diagnostic?product_id=${encodeURIComponent(productId)}`
+          `${API_BASE}/api/v2/demo-company/trend-diagnostic?product_id=${encodeURIComponent(productId)}`
         ),
       ]);
       if (!decisionRes.ok) throw new Error(`Request failed with status ${decisionRes.status}`);

@@ -1,8 +1,1 @@
-﻿{
-  "rewrites": [
-    {
-      "source": "/api/:path*",
-      "destination": "https://ai-decision-laboratory-v2.onrender.com/api/:path*"
-    }
-  ]
-}
+{"rewrites":[{"source":"/api/:path*","destination":"https://ai-decision-laboratory-v2.onrender.com/api/:path*"}]}
